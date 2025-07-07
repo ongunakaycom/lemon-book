@@ -103,5 +103,3 @@ Ongun Akay, a Senior Full-Stack Developer with expertise across various technolo
 ----------------
 
 PRs and feedback are welcome! This project was part of a learning journey — feel free to fork, contribute, or improve upon it.
-
-Plain ``   ✅ You can copy and paste this directly as your new `README.md` file.    Let me know if you want to add deployment instructions (e.g., Vercel, Netlify), unit test samples, or GitHub Actions next!   ``
